@@ -26,5 +26,7 @@ int n=sc.nextInt();
         
 
         System.out.println("Total receipts: " + total);
+        sc.close();
     }
+
 }
